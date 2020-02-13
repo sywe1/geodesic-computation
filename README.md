@@ -1,3 +1,7 @@
+![alt tag](https://github.com/shengyangwei/geodesic-computation/blob/master/images/graph.png)
+
+![alt tag](https://github.com/shengyangwei/geodesic-computation/blob/master/images/numeric.png)
+
 ## Description
 This program implements Fast Marching algorithm and Heat algorithm to compute geodesic distance on triangle meshes. Geodesic variation on a surface is represented by isolines and various colors. A numeric value of the distance is output to standard output.
 
@@ -37,11 +41,6 @@ $./demo ${model.obj}
 - Standard Output
   * Display the geodesic distance between two selected points.
 
-## Result
-
-![alt tag](https://github.com/shengyangwei/geodesic-computation/blob/master/images/graph.png)
-
-![alt tag](https://github.com/shengyangwei/geodesic-computation/blob/master/images/numeric.png)
 
 ## Acknowledgement
 
